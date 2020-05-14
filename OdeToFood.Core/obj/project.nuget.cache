@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrsUsr9ylAa1z7atcKSyNxYx7l/eQF7FphHahKerQQ3uoi9rAWFzIF3j+ZVtYF4lV4dH+QwZC1DFrSvQDB7h3w==",
+  "success": true,
+  "projectFilePath": "/Users/3wood/Desktop/csharp_dotnet_path/OdeToFood.Core/OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/3wood/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/3wood/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
